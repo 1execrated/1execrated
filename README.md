@@ -1,4 +1,4 @@
-# yo
+# hi
 
 i make stuff because i think it would be cool if it existed
 
@@ -12,13 +12,12 @@ most of my projects start with "what if i made this" and then i spend way too mu
 
 ## stuff i use
 
-![rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
-![c++](https://img.shields.io/badge/c%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 and whatever else the project needs
 
